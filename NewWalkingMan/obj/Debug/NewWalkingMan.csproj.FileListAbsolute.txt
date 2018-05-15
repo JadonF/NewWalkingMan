@@ -1,0 +1,9 @@
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\bin\Debug\NewWalkingMan.exe.config
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\bin\Debug\NewWalkingMan.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\bin\Debug\NewWalkingMan.pdb
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\obj\Debug\NewWalkingMan.csprojResolveAssemblyReference.cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\obj\Debug\NewWalkingMan.Form1.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\obj\Debug\NewWalkingMan.Properties.Resources.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\obj\Debug\NewWalkingMan.csproj.GenerateResource.Cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\obj\Debug\NewWalkingMan.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 4\NewWalkingManJadonF\NewWalkingMan\NewWalkingMan\obj\Debug\NewWalkingMan.pdb
